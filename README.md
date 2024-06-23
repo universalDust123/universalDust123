@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills<br>🌱 I’m currently learning MERN<br>💬 Ask me about anything<br>⚡ AI can't replace us.
+🔭 I’m currently working on my skills<br>🌱 Currently Exploring GenAI<br>💬 Ask me about anything<br>⚡ Curosity level high
 
 
 <!--## 🌐 Socials:
